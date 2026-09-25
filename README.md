@@ -13,7 +13,7 @@ You choose where the agent runs:
   Unreal icon) that opens the editor and the agent in its own window. The agent keeps working while
   the editor is closed, for example during rebuilds.
 
-![The setup window](docs/setup-window.png)
+<p align="center"><img src="docs/setup-window.png" alt="The setup window" width="600"></p>
 
 ## Requirements
 
